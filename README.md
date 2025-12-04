@@ -2,6 +2,11 @@
 
 Sou Anderson, estudante do curso de ciências da computação pela Universidade do Estado de Matogrosso.
 
+> 7° semestre
+
+Meu estilo de vida é ser autodidata na maior parte do tempo livre, estudando sempre novas tecnologias
+e criando projetos particulares afim de aprimorar meus conhecimentos e suprir as necessidades que entro no dia a dia.
+
 Como desenvolvedor Backend trabalho com:
 
 - 💾 Linguagens de programação, framework e bibliotecas (backend)
