@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**AndersonReiner/AndersonReiner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Anderson, estudante do curso de ciências da computação pela Universidade do Estado de Matogrosso.
 
-Here are some ideas to get you started:
+Como desenvolvedor Backend trabalho com:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💾 Linguagens de programação, framework e bibliotecas (backend)
+  - Java
+    - Spring Framwork (Spring Web, Spring Data (Hibernate/JPA), Spring Doc)
+  - Python
+    - FastAPI (SQLAlchemy, Alembic, Pydantic)
+  - Ansi C
+
+- 🖥 Linguagens de programação, framework e bibliotecas (frontend)
+  - HTML
+  - CSS
+ 
+-  Banco de dados
+    - Relacional (PostgreSQL, Sqlite)
+    - Não relacional (Mongodb)
+
+> ### 💡 Desenvolvedor disposto a aprender novas linguagens, frameworks e bibliotecas.
